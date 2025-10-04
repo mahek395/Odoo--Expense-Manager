@@ -6,4 +6,4 @@ const roleCheck = (roles) => (req, res, next) => {
   next();
 };
 
-module.exports = { roleCheck };
+module.exports = { roleCheck };       
